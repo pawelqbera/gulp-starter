@@ -1,0 +1,14 @@
+{
+  "name": "gulp-starter",
+  "version": "1.0.0",
+  "description": "*.7z\r *.dmg\r *.gz\r *.iso\r *.jar\r *.rar\r *.tar\r *.zip",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
